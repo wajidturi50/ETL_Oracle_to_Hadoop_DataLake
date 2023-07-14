@@ -1,6 +1,6 @@
 # Project Heading
 
-![Project Image](https://example.com/image-url)
+![Project Image]("C:\Users\Wajid\Desktop\New folder\Final Results.png")
 
 ## Explanation
 
