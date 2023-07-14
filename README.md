@@ -1,4 +1,4 @@
-# ETL PIPELINE (TAKE DATA FROM ORACLE DB AND INGEST INTO HADOOP)
+# Oracle to Hadoop Data Lake ETL using PySpark
 
 ![Project Image](https://github.com/wajidturi50/ETL_Oracle_to_Hadoop_DataLake/raw/main/Final%20Results.png)
 
