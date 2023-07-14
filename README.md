@@ -1,6 +1,6 @@
 # Project Heading
 
-![Project Image] (https://github.com/wajidturi50/ETL_Oracle_to_Hadoop_DataLake/blob/main/Final%20Results.png)
+![Project Image]([https://example.com/image-url](https://github.com/wajidturi50/ETL_Oracle_to_Hadoop_DataLake/blob/main/Final%20Results.png))
 
 ## Explanation
 
