@@ -1,15 +1,6 @@
 # Project Heading
 
-![Project Image]
-<!DOCTYPE html>
-<html>
-<head>
-   
-</head>
-<body>
-    <img src=""C:\Users\Wajid\Desktop\New folder\Final Results.png"">
-    </body>
-</html>
+![Project Image] (https://github.com/wajidturi50/ETL_Oracle_to_Hadoop_DataLake/blob/main/Final%20Results.png)
 
 ## Explanation
 
