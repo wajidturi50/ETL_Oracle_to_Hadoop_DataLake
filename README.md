@@ -1,6 +1,15 @@
 # Project Heading
 
-![Project Image]("C:\Users\Wajid\Desktop\New folder\Final Results.png")
+![Project Image]
+<!DOCTYPE html>
+<html>
+<head>
+   
+</head>
+<body>
+    <img src=""C:\Users\Wajid\Desktop\New folder\Final Results.png"">
+    </body>
+</html>
 
 ## Explanation
 
