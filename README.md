@@ -1,42 +1,18 @@
-# Project Heading
+# ETL PIPELINE (TAKE DATA FROM ORACLE DB AND INGEST INTO HADOOP)
 
 ![Project Image](https://github.com/wajidturi50/ETL_Oracle_to_Hadoop_DataLake/raw/main/Final%20Results.png)
 
 ## Explanation
 
-Welcome to my awesome GitHub repository! This project is all about [provide a brief description of your project]. It aims to [explain the purpose or goal of your project]. The repository contains [mention key features or components] and is designed to [describe how your project can be useful or solve a problem].
+Welcome to the Oracle to Hadoop Data Lake ETL project! This powerful ETL (Extract, Transform, Load) solution aims to efficiently extract data from multiple tables in an Oracle database and ingest it into a Hadoop data lake using PySpark.
 
-## Installation
+The project utilizes PySpark, a Python library that provides an interface for Apache Spark, a fast and general-purpose cluster computing system. PySpark enables seamless integration with Hadoop's distributed file system and allows us to process and transform large datasets in parallel.
 
-To use this project, follow these steps:
+To enhance the ETL process, the project incorporates configuration with Kudu nodes and Impala. Kudu is a columnar storage manager for Hadoop that enables fast analytics on fast data. Impala, on the other hand, is a massively parallel processing (MPP) SQL query engine for Hadoop that provides real-time, interactive SQL queries on large datasets.
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. [Add any additional installation instructions if required]
-
-## Usage
-
-Here's how you can use this project:
-
-1. [Explain the basic usage or provide example code]
-2. [Describe any important configurations or settings]
-3. [Add additional instructions or examples as necessary]
-
-## Contributing
-
-Contributions are always welcome! If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Submit a pull request
-
-## License
-
-[Specify the license under which your project is distributed]
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your email address].
+If you have any questions or suggestions, feel free to reach out to me at [wajidturi7@gmail.com].
 
 Thank you for visiting this repository and happy coding!
