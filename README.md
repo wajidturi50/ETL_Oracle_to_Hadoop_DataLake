@@ -1,4 +1,4 @@
-# Oracle to Hadoop Data Lake ETL using PySpark
+# Oracle to Hadoop Data Lake ETL using Scala-Spark
 
 ![Project Image](https://github.com/wajidturi50/ETL_Oracle_to_Hadoop_DataLake/raw/main/Final%20Results.png)
 
